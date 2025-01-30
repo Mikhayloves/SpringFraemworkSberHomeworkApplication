@@ -28,10 +28,10 @@ Properties в Spring — это параметры, которые позвол�
 в классе [**`MultiThreadingResourceDownloadService`**](https://github.com/Mikhayloves/SpringFraemworkSberHomeworkApplication/blob/main/src/main/java/com/example/SpringFraemworkSberHomework/service/MultiThreadingResourceDownloadService.java) создаются ограничения по использованию потоков.
 
 
-Ну и в классе [**`ResourceDownloadTask`**] (https://github.com/Mikhayloves/SpringFraemworkSberHomeworkApplication/blob/main/src/main/java/com/example/SpringFraemworkSberHomework/service/ResourceDownloadTask.java) реализованна основная логика скачивания, установка заглушки по скорости скачивания, и по очереде вывод потоков.
+Ну и в классе [**`ResourceDownloadTask`**](https://github.com/Mikhayloves/SpringFraemworkSberHomeworkApplication/blob/main/src/main/java/com/example/SpringFraemworkSberHomework/service/ResourceDownloadTask.java) реализованна основная логика скачивания, установка заглушки по скорости скачивания, и по очереде вывод потоков.
 
 _______________________________
-## Демонстарация корректной роботоспособности:
+## Демонстарация корректной работы:
 
 
 ![photo_2025-01-30_20-35-37.jpg](https://github.com/Mikhayloves/SpringFraemworkSberHomeworkApplication/blob/main/photo_2025-01-30_20-35-37.jpg)
